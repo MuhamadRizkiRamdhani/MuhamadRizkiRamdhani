@@ -41,6 +41,9 @@
 
 <br clear="both">
 
+
+<h4 align="left">Play Some Games!</h4>
+
 <img src="https://raw.githubusercontent.com/MuhamadRizkiRamdhani/MuhamadRizkiRamdhani/output/snake.svg" alt="Snake animation" />
 
 ###
